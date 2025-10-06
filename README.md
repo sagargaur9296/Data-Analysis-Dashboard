@@ -11,3 +11,7 @@ Gain insights into booking patterns across months and countries.
 Compare reserved vs. assigned room types to evaluate customer satisfaction.
 Track cancellation rates and uncover possible reasons behind them.
 Help hotel management make data-driven decisions to improve occupancy rates, optimize operations, and reduce cancellations.
+
+
+## dataset used
+- <a href="  https://github.com/sagargaur9296/Data-Analysis-Dashboard/blob/main/hotel_booking_dashboard.xlsx">dataset</a>
