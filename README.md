@@ -15,3 +15,7 @@ Help hotel management make data-driven decisions to improve occupancy rates, opt
 
 ## dataset used
 - <a href="https://github.com/sagargaur9296/Data-Analysis-Dashboard/blob/main/hotel_booking_dashboard.xlsx">Dataset</a>
+
+
+# Dashboard
+![Dashboard_image](https://github.com/user-attachments/assets/2f5b0746-6f03-4cd1-9168-f04bcedc217e)
